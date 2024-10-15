@@ -1,0 +1,23 @@
+{
+  "name": "27heaven",
+  "version": "1.0.0",
+  "description": "RSVP website for my party.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harethhmoud/27Heaven.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harethhmoud/27Heaven/issues"
+  },
+  "homepage": "https://github.com/harethhmoud/27Heaven#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
